@@ -1,1 +1,3 @@
 # demo-git
+đây là phần demo sử dụng github
+thông qua phần này em đã sử dụng các lệnh: clone, add, push, commit, checkout, merge, branch,...
